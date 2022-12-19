@@ -1,0 +1,1 @@
+You might think that Salesforce is just a CRM. It stores your customer data, gives you processes to nurture prospective customers, and provides ways to collaborate with people you work with. And it does all those things. But saying that Salesforce is “just a CRM” is like saying a house is just a kitchen. There’s a lot more to it than that.
